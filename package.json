@@ -1,0 +1,9 @@
+{
+  "name": "fernandonunes",
+  "version": "1.0.0",
+  "description": "Website Fernando Nunes",
+  "main": "index.js",
+  "repository": "https://github.com/13Nunes/fernandonunes",
+  "author": "Fernando Nunes <onlyfernando@gmail.com>",
+  "license": "MIT"
+}
