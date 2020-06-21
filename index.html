@@ -857,6 +857,10 @@
       $(window).scroll(function() {
         checkSection();
       });
+
+      setTimeout(function(){
+        $(".isotope-toolbar > label > input:eq(0)").prop('checked', true).trigger('change');
+      }, 2000)
     </script>
   </body>
 </html>
